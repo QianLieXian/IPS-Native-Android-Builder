@@ -1,0 +1,12 @@
+.build-cache/
+dist/
+linux/
+win/
+__pycache__/
+*.apk
+*.jks
+*.keystore
+*.nupkg
+*.dll
+*.so
+*.jar

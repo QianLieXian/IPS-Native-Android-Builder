@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "steps": [
+    "textures"
+  ],
+  "textures": {
+    "mode": "search",
+    "quality": "fastest",
+    "block": [
+      6,
+      6
+    ],
+    "threads": 8,
+    "pipeline": false,
+    "prepare_split": false
+  }
+}
